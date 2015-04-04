@@ -1,0 +1,32 @@
+_prefs: 
+  baselayer: ''
+  mapid: skorasaurus.99163c40
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85
+  - 180
+  - 85
+center: 
+  - -81.6836
+  - 41.489
+  - 16
+description: 'based on Streets Classic; used as a base layer. '
+format: "png8:m=h:c=64"
+interactivity_layer: ''
+layers: null
+maxzoom: 19
+minzoom: 0
+name: 'Transparency. '
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - vars.mss
+  - bg.mss
+  - road.mss
+  - label.mss
+  - poi_classic.mss
+template: ''
